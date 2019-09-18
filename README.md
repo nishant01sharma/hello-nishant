@@ -1,2 +1,2 @@
 # hello-nishant
-data annalytics
+data analytics
